@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Bitcoins.lc\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2011-06-08 22:19+0100\n"
-"PO-Revision-Date: 2011-06-08 22:21+0100\n"
+"POT-Creation-Date: 2011-06-09 01:36+0100\n"
+"PO-Revision-Date: 2011-06-09 01:36+0100\n"
 "Last-Translator: Jim Nelin <jim@jine.se>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -444,6 +444,7 @@ msgid "Instant payout requires your verified funds balance to be over %s BTC. Ho
 msgstr "Para el pago instantáneo necesitamos que tu saldo de fondos verificados sea mayor que %s BTC. Sin embargo, recomendamos que esperes a un mínimo de 1 BTC por las comisiones de transacción. Pulsa el botón que tienes debajo para realizar un pago a la dirección de Bitcoin especificada en tu vista general de cuenta."
 
 #: _pages/account.php:7
+#, php-format
 msgid "(You must have at least %s BTC to do an instant payout)"
 msgstr "(Tienes que tener al menos %s BTC para realizar un pago instantáneo)"
 
@@ -601,7 +602,8 @@ msgid "Did you know that our domain name was chosen because of .lc could be asso
 msgstr "¿Sabías que nuestro dominio se eligió porque .lc podría asociarse con \"low cost\"?"
 
 #: _pages/about.php:20
-msgid "Bitcoins.lc is hosted in Sweden, in an advanced virtual hosting enviorment with full redundancy. Visit <a href=\"http://www.jine.se/\">http://www.jine.se/</a> for more information (in swedish) about their services."
+#, fuzzy
+msgid "Bitcoins.lc is hosted in Sweden, in an advanced virtual hosting environment with full redundancy. Visit <a href=\"http://www.jine.se/\">http://www.jine.se/</a> for more information (in swedish) about their services."
 msgstr "Bitcoins.lc está alojado en Suecia, en un entorno de alojamiento virtual avanzado con redundancia total. Visita <a href=\"http://www.jine.se/\">http://www.jine.se/</a> para más información (en sueco) de sus servicios."
 
 #: _pages/solved_blocks.php:1
@@ -709,11 +711,13 @@ msgid "Transaction failed. You must set an payout address in your account settin
 msgstr "Error en la transacción. Tienes que introducir una dirección de pago en tu configuración de cuenta."
 
 #: _includes/Account.class.php:243
+#, fuzzy, php-format
 msgid "Instant payout of %s BTC sent to %s. <a href=\"http://blockexplorer.com/tx/%s\">View transaction</a>"
 msgstr "Se ha enviado un pago instantáneo de % BTC a %s. <a href=\"http://blockexplorer.com/tx/%s\">Ver transacción</a>."
 
 #: _includes/Account.class.php:247
-msgid "Transaction failed, this could possible be an error in the system. Please contact us if this error remains."
+#, fuzzy
+msgid "Transaction failed, this could possibly be an error in the system. Please contact us if this error remains."
 msgstr "Error en la transacción, posiblemente por error en el sistema. Ponte en contacto con nosotros si el error persiste."
 
 #: _includes/Account.class.php:252

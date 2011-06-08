@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Bitcoins.lc\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2011-06-08 16:25+0100\n"
-"PO-Revision-Date: 2011-06-08 16:25+0100\n"
+"POT-Creation-Date: 2011-06-09 01:36+0100\n"
+"PO-Revision-Date: 2011-06-09 01:36+0100\n"
 "Last-Translator: Jim Nelin <jim@jine.se>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Poedit-SourceCharset: utf-8\n"
 "X-Poedit-SearchPath-0: .\n"
 
-#: init.php:26
+#: init.php:57
 msgid "Low Cost Bitcoin Pool - Bitcoins.lc"
 msgstr ""
 
@@ -42,136 +42,140 @@ msgid "Stats"
 msgstr ""
 
 #: index.php:36
+msgid "FAQ"
+msgstr ""
+
+#: index.php:37
 msgid "About us"
 msgstr ""
 
-#: index.php:44
+#: index.php:45
 msgid "Welcome to Bitcoins.lc!"
 msgstr ""
 
-#: index.php:51
+#: index.php:52
 msgid "Current pool statistics"
 msgstr ""
 
-#: index.php:52
+#: index.php:53
 #: _pages/stats.php:7
 #, php-format
 msgid "%s from %d workers"
 msgstr ""
 
-#: index.php:61
+#: index.php:62
 msgid "E-mail address"
 msgstr ""
 
-#: index.php:62
+#: index.php:63
 #: _pages/pool.php:23
 msgid "Password"
 msgstr ""
 
-#: index.php:63
+#: index.php:64
 msgid "Proceed"
 msgstr ""
 
-#: index.php:66
+#: index.php:67
 msgid "Forgot your password?"
 msgstr ""
 
-#: index.php:67
+#: index.php:68
 #: _pages/register.php:1
 msgid "Register new account"
 msgstr ""
 
-#: index.php:73
+#: index.php:74
 msgid "Enter your e-mail address"
 msgstr ""
 
-#: index.php:74
+#: index.php:75
 msgid "Restore password"
 msgstr ""
 
-#: index.php:75
+#: index.php:76
 msgid "Return to login"
 msgstr ""
 
-#: index.php:81
+#: index.php:82
 msgid "Welcome to Bitcoins.lc"
 msgstr ""
 
-#: index.php:81
+#: index.php:82
 msgid "Logged in as"
 msgstr ""
 
-#: index.php:81
+#: index.php:82
 msgid "Settings"
 msgstr ""
 
-#: index.php:82
+#: index.php:83
 msgid "Log Out"
 msgstr ""
 
-#: index.php:87
 #: index.php:88
+#: index.php:89
 msgid "Verified funds"
 msgstr ""
 
-#: index.php:92
 #: index.php:93
+#: index.php:94
 msgid "Unverified funds"
 msgstr ""
 
-#: index.php:97
 #: index.php:98
+#: index.php:99
 msgid "Estimated earnings"
 msgstr ""
 
-#: index.php:190
+#: index.php:191
 msgid "Recent Transactions"
 msgstr ""
 
-#: index.php:190
+#: index.php:191
 msgid "Show all"
 msgstr ""
 
-#: index.php:211
+#: index.php:212
 #: _pages/transactions.php:20
 #, php-format
 msgid "Based upon %d valid shares."
 msgstr ""
 
-#: index.php:222
+#: index.php:223
 msgid "No recent transactions found."
 msgstr ""
 
-#: index.php:230
+#: index.php:231
 #: _pages/pool.php:56
 #, php-format
 msgid "Your current total hashrate is <strong>%s</strong>"
 msgstr ""
 
-#: index.php:232
+#: index.php:233
 #, php-format
 msgid "In total <b>%s</b> from <b>%d</b> workers"
 msgstr ""
 
-#: index.php:233
+#: index.php:234
 #, php-format
 msgid "<b>1 BTC</b> is currently worth <b>%s USD</b>"
 msgstr ""
 
-#: index.php:234
+#: index.php:235
 msgid "Soon a lot of statistics and information will fill this area, until then please check our basic <a href=\"/stats\">statistics</a>"
 msgstr ""
 
-#: index.php:242
+#: index.php:243
 msgid "Webchat"
 msgstr ""
 
-#: index.php:242
+#: index.php:243
 #, php-format
 msgid "Support us at <em>%s</em>"
 msgstr ""
 
-#: index.php:244
+#: index.php:245
 msgid "Select language"
 msgstr ""
 
@@ -438,7 +442,7 @@ msgstr ""
 
 #: _pages/account.php:7
 #, php-format
-msgid "(You must have at least %d BTC to do an instant payout)"
+msgid "(You must have at least %s BTC to do an instant payout)"
 msgstr ""
 
 #: _pages/account.php:10
@@ -595,7 +599,7 @@ msgid "Did you know that our domain name was chosen because of .lc could be asso
 msgstr ""
 
 #: _pages/about.php:20
-msgid "Bitcoins.lc is hosted in Sweden, in an advanced virtual hosting enviorment with full redundancy. Visit <a href=\"http://www.jine.se/\">http://www.jine.se/</a> for more information (in swedish) about their services."
+msgid "Bitcoins.lc is hosted in Sweden, in an advanced virtual hosting environment with full redundancy. Visit <a href=\"http://www.jine.se/\">http://www.jine.se/</a> for more information (in swedish) about their services."
 msgstr ""
 
 #: _pages/solved_blocks.php:1
@@ -631,7 +635,7 @@ msgid "It's rather easy, all you need to do is <a href=\"/register\">sign up</a>
 msgstr ""
 
 #: _pages/free-bitcoins.php:11
-msgid "Ssupported software"
+msgid "Supported software"
 msgstr ""
 
 #: _pages/free-bitcoins.php:12
@@ -707,7 +711,7 @@ msgid "Instant payout of %s BTC sent to %s. <a href=\"http://blockexplorer.com/t
 msgstr ""
 
 #: _includes/Account.class.php:247
-msgid "Transaction failed, this could possible be an error in the system. Please contact us if this error remains."
+msgid "Transaction failed, this could possibly be an error in the system. Please contact us if this error remains."
 msgstr ""
 
 #: _includes/Account.class.php:252
@@ -795,16 +799,24 @@ msgstr ""
 msgid "Invalid password reset token."
 msgstr ""
 
-#: _includes/config.php:27
+#: _includes/config.php:23
 msgid "Buy Bitcoins Cheap"
 msgstr ""
 
-#: _includes/config.php:28
+#: _includes/config.php:24
 msgid "Get Free Bitcoins"
 msgstr ""
 
-#: _includes/config.php:31
+#: _includes/config.php:27
 msgid "Statistics and Top lists"
+msgstr ""
+
+#: _includes/config.php:28
+msgid "Transactions"
+msgstr ""
+
+#: _includes/config.php:29
+msgid "Your account"
 msgstr ""
 
 #: _includes/DB.class.php:17
