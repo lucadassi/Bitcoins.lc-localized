@@ -15,21 +15,21 @@ msgstr ""
 "X-Poedit-SearchPath-0: .\n"
 
 #: init.php:26
-msgid "Low Cost Bitcoin Pool - Bitcoins.lc"
+msgid "Pool Bitcoin low-cost - Bitcoins.lc"
 msgstr ""
 
 #: index.php:31
-msgid "Frontpage"
+msgid "Page d'acceuil"
 msgstr ""
 
 #: index.php:32
 #: _pages/buy.php:1
-msgid "Buy Bitcoins"
+msgid "Acheter des Bitcoins"
 msgstr ""
 
 #: index.php:33
 #: _pages/sell.php:1
-msgid "Sell Bitcoins"
+msgid "Vendre des Bitcoins"
 msgstr ""
 
 #: index.php:34
@@ -41,274 +41,274 @@ msgid "Stats"
 msgstr ""
 
 #: index.php:36
-msgid "About us"
+msgid "Qui sommes-nous ?"
 msgstr ""
 
 #: index.php:44
-msgid "Welcome to Bitcoins.lc!"
+msgid "Bienvenue sur Bitcoins.lc!"
 msgstr ""
 
 #: index.php:51
-msgid "Current pool statistics"
+msgid "Statistiques actuelles de la pool"
 msgstr ""
 
 #: index.php:52
 #: _pages/stats.php:7
 #, php-format
-msgid "%s from %d workers"
+msgid "%s depuis %d mineurs"
 msgstr ""
 
 #: index.php:61
-msgid "E-mail address"
+msgid "Addresse email"
 msgstr ""
 
 #: index.php:62
 #: _pages/pool.php:23
-msgid "Password"
+msgid "Mot de passe"
 msgstr ""
 
 #: index.php:63
-msgid "Proceed"
+msgid "Continuer"
 msgstr ""
 
 #: index.php:66
-msgid "Forgot your password?"
+msgid "Mot de passe oublié ?"
 msgstr ""
 
 #: index.php:67
 #: _pages/register.php:1
-msgid "Register new account"
+msgid "S'enregistrer"
 msgstr ""
 
 #: index.php:73
-msgid "Enter your e-mail address"
+msgid "Entrez votre addresse email"
 msgstr ""
 
 #: index.php:74
-msgid "Restore password"
+msgid "Restaurer le mot de passe"
 msgstr ""
 
 #: index.php:75
-msgid "Return to login"
+msgid "Retour à la page de connexion"
 msgstr ""
 
 #: index.php:81
-msgid "Welcome to Bitcoins.lc"
+msgid "Bienvenue sur Bitcoins.lc"
 msgstr ""
 
 #: index.php:81
-msgid "Logged in as"
+msgid "Connecté en tant que"
 msgstr ""
 
 #: index.php:81
-msgid "Settings"
+msgid "Paramètres"
 msgstr ""
 
 #: index.php:82
-msgid "Log Out"
+msgid "Se déconnecter"
 msgstr ""
 
 #: index.php:87
 #: index.php:88
-msgid "Verified funds"
+msgid "Fonds vérifiés"
 msgstr ""
 
 #: index.php:92
 #: index.php:93
-msgid "Unverified funds"
+msgid "Fonds non-vérifiés"
 msgstr ""
 
 #: index.php:97
 #: index.php:98
-msgid "Estimated earnings"
+msgid "Gains estimés"
 msgstr ""
 
 #: index.php:190
-msgid "Recent Transactions"
+msgid "Transactions récentes"
 msgstr ""
 
 #: index.php:190
-msgid "Show all"
+msgid "Tout afficher"
 msgstr ""
 
 #: index.php:211
 #: _pages/transactions.php:20
 #, php-format
-msgid "Based upon %d valid shares."
+msgid "Basé sur %d parts valides."
 msgstr ""
 
 #: index.php:222
-msgid "No recent transactions found."
+msgid "Aucune transaction récente trouvée."
 msgstr ""
 
 #: index.php:230
 #: _pages/pool.php:56
 #, php-format
-msgid "Your current total hashrate is <strong>%s</strong>"
+msgid "Votre taux de hash est <strong>%s</strong>"
 msgstr ""
 
 #: index.php:232
 #, php-format
-msgid "In total <b>%s</b> from <b>%d</b> workers"
+msgid "Sur un total de <b>%s</b> depuis <b>%d</b> workers"
 msgstr ""
 
 #: index.php:233
 #, php-format
-msgid "<b>1 BTC</b> is currently worth <b>%s USD</b>"
+msgid "<b>1 BTC</b> vaut actuellement <b>%s USD</b>"
 msgstr ""
 
 #: index.php:234
-msgid "Soon a lot of statistics and information will fill this area, until then please check our basic <a href=\"/stats\">statistics</a>"
+msgid "Bientôt de nombreuses informations et statistiques viendront completer cette zone, en attendant veuillez utiliser nos <a href=\"/stats\">statistiques simples</a>"
 msgstr ""
 
 #: index.php:242
-msgid "Webchat"
+msgid "Chat web"
 msgstr ""
 
 #: index.php:242
 #, php-format
-msgid "Support us at <em>%s</em>"
+msgid "Aidez nous par <em>%s</em>"
 msgstr ""
 
 #: index.php:244
-msgid "Select language"
+msgid "Langue"
 msgstr ""
 
 #: _pages/stats.php:1
-msgid "General Statistics"
+msgid "Statistiques génerales "
 msgstr ""
 
 #: _pages/stats.php:1
 #: _pages/stats.php:113
-msgid "Show in JSON"
+msgid "Afficher en JSON"
 msgstr ""
 
 #: _pages/stats.php:2
-msgid "Below here you'll find general statistics and information about the current progress. Data is cached 45 to 90 seconds depending on type of data. Please don't hammer this page."
+msgid "Vous trouverez ci-dessous des statistiques et informations générales sur l'avancement actuel. Les données sont mises encache pendant 45 à 90 secondes selon le type. Veuillez ne pas recharger la page trop souvent."
 msgstr ""
 
 #: _pages/stats.php:6
-msgid "Total pool performance"
+msgid "Performance totale du pool"
 msgstr ""
 
 #: _pages/stats.php:10
-msgid "Current round started at"
+msgid "Round commencé à"
 msgstr ""
 
 #: _pages/stats.php:14
-msgid "Current round duration"
+msgid "Durée du round courant"
 msgstr ""
 
 #: _pages/stats.php:18
-msgid "Valid shares for current round"
+msgid "Parts valides pour le roud courant"
 msgstr ""
 
 #: _pages/stats.php:22
-msgid "Shares for current round"
+msgid "Parts pour le round courant"
 msgstr ""
 
 #: _pages/stats.php:30
-msgid "Previous round started at"
+msgid "Rounds précédent commencé à"
 msgstr ""
 
 #: _pages/stats.php:34
-msgid "Previous round finished at"
+msgid "Rounds précédent terminé à"
 msgstr ""
 
 #: _pages/stats.php:38
-msgid "Previous round duration"
+msgid "Durée du round précédent"
 msgstr ""
 
 #: _pages/stats.php:42
-msgid "Valid shares for previous round"
+msgid "Parts valides pour le roud précédent"
 msgstr ""
 
 #: _pages/stats.php:46
-msgid "Shares for previous round"
+msgid "Parts pour le roud courant"
 msgstr ""
 
 #: _pages/stats.php:55
-msgid "Current block received"
+msgid "Bloc courant reçu"
 msgstr ""
 
 #: _pages/stats.php:59
-msgid "Lifetime for current block"
+msgid "Durée de vie du bloc courant"
 msgstr ""
 
 #: _pages/stats.php:63
-msgid "Current block"
+msgid "Bloc courant"
 msgstr ""
 
 #: _pages/stats.php:67
-msgid "Current difficulty"
+msgid "Difficulté actuelle"
 msgstr ""
 
 #: _pages/stats.php:71
-msgid "Active workers"
+msgid "Mineurs actifs"
 msgstr ""
 
 #: _pages/stats.php:75
-msgid "Solved blocks"
+msgid "Blocs trouvés"
 msgstr ""
 
 #: _pages/stats.php:75
-msgid "Show block info"
+msgid "Afficher les infos. de bloc"
 msgstr ""
 
 #: _pages/stats.php:83
-msgid "Latest block solved by"
+msgid "Dernier bloc trouvé par"
 msgstr ""
 
 #: _pages/stats.php:87
-msgid "Shares for current block"
+msgid "Parts pour le bloc courant"
 msgstr ""
 
 #: _pages/stats.php:92
-msgid "Total num. of valid shares"
+msgid "Nombre total de parts valides"
 msgstr ""
 
 #: _pages/stats.php:96
-msgid "Total num. of shares"
+msgid "Nombre total de parts"
 msgstr ""
 
 #: _pages/stats.php:101
-msgid "Total num. of workers"
+msgid "Nombre total de mineurs"
 msgstr ""
 
 #: _pages/stats.php:105
-msgid "Total num. of users"
+msgid "Nombre total d'utilisateurs"
 msgstr ""
 
 #: _pages/stats.php:111
-msgid "More stats will come with time, if you have any suggestions - please let us know!"
+msgid "Plus de statistiques viendront par la suite, si vous avez des suggestions, n'hésitez pas à nous les partager !"
 msgstr ""
 
 #: _pages/stats.php:113
-msgid "Top list (Shares)"
+msgid "Classement (Parts)"
 msgstr ""
 
 #: _pages/stats.php:114
-msgid "Below you'll see our current top list of users and their total amount of submitted shares. Can't find yourself on the list? Make sure that you actually have filled in the optional nickname field in your Account Overview."
+msgid "Voici ci-dessous le classement actuel des utilisateurs et de leurs parts de travail. Vous ne vous trouvez pas sur la liste ? Vérifiez que vous avez rempli le champ pseudo dans votre compte utilisateur."
 msgstr ""
 
 #: _pages/stats.php:119
-msgid "Nickname"
+msgid "Pseudo"
 msgstr ""
 
 #: _pages/stats.php:120
-msgid "Submitted shares"
+msgid "Parts envoyées"
 msgstr ""
 
 #: _pages/transactions.php:1
-msgid "Your Transactions"
+msgid "Vos transactions"
 msgstr ""
 
 #: _pages/transactions.php:2
-msgid "Below you can see the full list of transactions linked to your account. Due to a change in the transaction system, it's only transactions since the 1th of June that's showed."
+msgid "Vous trouverez ci-dessous la liste complète des transactions en rapport avec votre compte. A cause d'un changement dans le système de transaction, seulement l'historique depuis le 1er Juin est disponible."
 msgstr ""
 
 #: _pages/transactions.php:31
-msgid "No transactions found."
+msgid "Aucune transaction trouvée."
 msgstr ""
 
 #: _pages/register.php:2
