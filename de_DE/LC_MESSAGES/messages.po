@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Bitcoins.lc\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-06-09 17:42+0100\n"
-"PO-Revision-Date: 2011-06-09 17:42+0100\n"
+"PO-Revision-Date: 2011-06-09 22:50+0100\n"
 "Last-Translator: Jim Nelin <jim@jine.se>\n"
 "Language-Team: Sebastian <sebastian.a.kuehl@googlemail.com>\n"
 "MIME-Version: 1.0\n"
@@ -127,7 +127,7 @@ msgstr "Nicht verifiziertes Guthaben"
 #: index.php:98
 #: index.php:99
 msgid "Estimated earnings"
-msgstr "Geschätzer Ertrag"
+msgstr "Geschätzter Ertrag"
 
 #: index.php:191
 msgid "Recent Transactions"
