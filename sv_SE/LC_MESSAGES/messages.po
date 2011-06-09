@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-06-09 02:21+0100\n"
 "PO-Revision-Date: 2011-06-09 02:21+0100\n"
-"Last-Translator: Jim Nelin <jim@jine.se>\n"
+"Last-Translator: Timmy Sjöstedt <me@iostream.se>\n"
 "Language-Team:  <info@bitcoins.lc>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -44,7 +44,7 @@ msgstr "Statistik"
 
 #: index.php:36
 msgid "FAQ"
-msgstr ""
+msgstr "Frågor och Svar"
 
 #: index.php:37
 msgid "About us"
@@ -56,7 +56,7 @@ msgstr "Välkommen till Bitcoins.lc!"
 
 #: index.php:52
 msgid "Current pool statistics"
-msgstr "Nuvarande pool statistik"
+msgstr "Nuvarande statistik för poolen"
 
 #: index.php:53
 #: _pages/stats.php:7
@@ -131,7 +131,7 @@ msgstr "Estimerad inkomst"
 
 #: index.php:191
 msgid "Recent Transactions"
-msgstr "Senaste Transaktionerna"
+msgstr "Senaste transaktioner"
 
 #: index.php:191
 msgid "Show all"
@@ -151,7 +151,7 @@ msgstr "Inga transaktioner hittades."
 #: _pages/pool.php:56
 #, php-format
 msgid "Your current total hashrate is <strong>%s</strong>"
-msgstr "Your current total hashrate is <strong>%s</strong>"
+msgstr "Ditt nuvarande hashtempo är <strong>%s</strong>"
 
 #: index.php:233
 #, php-format
@@ -182,12 +182,12 @@ msgstr "Välj språk"
 
 #: _pages/stats.php:1
 msgid "General Statistics"
-msgstr "Allmänn statistik"
+msgstr "Allmän statistik"
 
 #: _pages/stats.php:1
 #: _pages/stats.php:113
 msgid "Show in JSON"
-msgstr ""
+msgstr "Visa med JSON"
 
 #: _pages/stats.php:2
 msgid "Below here you'll find general statistics and information about the current progress. Data is cached 45 to 90 seconds depending on type of data. Please don't hammer this page."
@@ -195,7 +195,7 @@ msgstr ""
 
 #: _pages/stats.php:6
 msgid "Total pool performance"
-msgstr ""
+msgstr "Total prestation för poolen"
 
 #: _pages/stats.php:10
 msgid "Current round started at"
@@ -207,19 +207,19 @@ msgstr ""
 
 #: _pages/stats.php:18
 msgid "Valid shares for current round"
-msgstr ""
+msgstr "Giltiga andelar för nuvarande omgång"
 
 #: _pages/stats.php:22
 msgid "Shares for current round"
-msgstr ""
+msgstr "Andelar för nuvarande omgång"
 
 #: _pages/stats.php:30
 msgid "Previous round started at"
-msgstr ""
+msgstr "Föregående omgång började"
 
 #: _pages/stats.php:34
 msgid "Previous round finished at"
-msgstr ""
+msgstr "Föregående omgång avslutades"
 
 #: _pages/stats.php:38
 msgid "Previous round duration"
@@ -227,11 +227,11 @@ msgstr ""
 
 #: _pages/stats.php:42
 msgid "Valid shares for previous round"
-msgstr ""
+msgstr "Giltiga andelar för föregående omgång"
 
 #: _pages/stats.php:46
 msgid "Shares for previous round"
-msgstr ""
+msgstr "Andelar för föregående omgång"
 
 #: _pages/stats.php:55
 msgid "Current block received"
@@ -239,59 +239,59 @@ msgstr ""
 
 #: _pages/stats.php:59
 msgid "Lifetime for current block"
-msgstr ""
+msgstr "Livstid för nuvarande block"
 
 #: _pages/stats.php:63
 msgid "Current block"
-msgstr ""
+msgstr "Nuvarande block"
 
 #: _pages/stats.php:67
 msgid "Current difficulty"
-msgstr ""
+msgstr "Nuvarande svårighetsgrad"
 
 #: _pages/stats.php:71
 msgid "Active workers"
-msgstr ""
+msgstr "Aktiva arbetare"
 
 #: _pages/stats.php:75
 msgid "Solved blocks"
-msgstr ""
+msgstr "Lösta block"
 
 #: _pages/stats.php:75
 msgid "Show block info"
-msgstr ""
+msgstr "Visa blockinfo"
 
 #: _pages/stats.php:83
 msgid "Latest block solved by"
-msgstr ""
+msgstr "Senaste blocket löstes av"
 
 #: _pages/stats.php:87
 msgid "Shares for current block"
-msgstr ""
+msgstr "Andelar för nuvarande block"
 
 #: _pages/stats.php:92
 msgid "Total num. of valid shares"
-msgstr "Totalt antal giltiga shares"
+msgstr "Totalt antal giltiga andelar"
 
 #: _pages/stats.php:96
 msgid "Total num. of shares"
-msgstr ""
+msgstr "Totalt antal andelar"
 
 #: _pages/stats.php:101
 msgid "Total num. of workers"
-msgstr ""
+msgstr "Totalt antal arbetare"
 
 #: _pages/stats.php:105
 msgid "Total num. of users"
-msgstr ""
+msgstr "Totalt antal användare"
 
 #: _pages/stats.php:111
 msgid "More stats will come with time, if you have any suggestions - please let us know!"
-msgstr ""
+msgstr "Mer statistik kommer i framtiden - om du har några förslag, hör av dig!"
 
 #: _pages/stats.php:113
 msgid "Top list (Shares)"
-msgstr ""
+msgstr "Topplista (Andelar)"
 
 #: _pages/stats.php:114
 msgid "Below you'll see our current top list of users and their total amount of submitted shares. Can't find yourself on the list? Make sure that you actually have filled in the optional nickname field in your Account Overview."
@@ -299,7 +299,7 @@ msgstr ""
 
 #: _pages/stats.php:119
 msgid "Nickname"
-msgstr ""
+msgstr "Användarnamn"
 
 #: _pages/stats.php:120
 msgid "Submitted shares"
@@ -307,7 +307,7 @@ msgstr ""
 
 #: _pages/transactions.php:1
 msgid "Your Transactions"
-msgstr "Dina Transaktionerna"
+msgstr "Dina transaktioner"
 
 #: _pages/transactions.php:2
 msgid "Below you can see the full list of transactions linked to your account. Due to a change in the transaction system, it's only transactions since the 1th of June that's showed."
@@ -326,7 +326,7 @@ msgstr ""
 
 #: _pages/register.php:4
 msgid "All fields below are required."
-msgstr ""
+msgstr "Samtliga fält nedan är obligatoriska."
 
 #: _pages/register.php:9
 msgid "E-mail address:"
@@ -342,11 +342,11 @@ msgstr "Upprepa lösenord:"
 
 #: _pages/register.php:18
 msgid "Sign up"
-msgstr ""
+msgstr "Bli medlem"
 
 #: _pages/pool.php:1
 msgid "Information"
-msgstr ""
+msgstr "Information"
 
 #: _pages/pool.php:2
 msgid "We are running a <em>Mining Pool</em> for solving blocks and generating bitcoins together. Bitcoins are only created in chunks of 50 BTC at a time, with the whole sum paid to a single person. There's however one issue: it would take forever for one person to mine an entire block. Pooled mining is a way for multiple users to work together to solve blocks and get Bitcoins, all it takes is time and hashpower."
@@ -359,7 +359,7 @@ msgstr ""
 #: _pages/pool.php:6
 #: _pages/pool.php:12
 msgid "Create new worker"
-msgstr ""
+msgstr "Skapa ny arbetare"
 
 #: _pages/pool.php:7
 msgid "For each individual instance of your miner you'll need an unique worker to access our service. For example, if you have two graphic cards with one GPU each you will need two workers. If you're mining with both CPU and GPU, you will need one worker for your CPU and one for GPU, and so on."
@@ -367,11 +367,11 @@ msgstr ""
 
 #: _pages/pool.php:8
 msgid "Press the following button to create a new worker."
-msgstr ""
+msgstr "Tryck på följande knapp för att skapa en ny arbetare."
 
 #: _pages/pool.php:15
 msgid "Manage your workers"
-msgstr ""
+msgstr "Hantera dina arbetare"
 
 #: _pages/pool.php:16
 msgid "Below is a table with necessary information to get started. Use a miner of your choice (preferably with long-polling support) and point it to the URL below with the generated username and password"
@@ -384,31 +384,31 @@ msgstr ""
 
 #: _pages/pool.php:21
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #: _pages/pool.php:22
 msgid "Username"
-msgstr ""
+msgstr "Användarnamn"
 
 #: _pages/pool.php:24
 msgid "URL"
-msgstr ""
+msgstr "URL"
 
 #: _pages/pool.php:25
 msgid "Shares"
-msgstr ""
+msgstr "Andelar"
 
 #: _pages/pool.php:26
 msgid "Hashrate"
-msgstr ""
+msgstr "Hashtempo"
 
 #: _pages/pool.php:44
 msgid "Delete this worker"
-msgstr ""
+msgstr "Ta bort denna arbetare"
 
 #: _pages/pool.php:50
 msgid "You don't have any workers yet, press the button above to create one..."
-msgstr ""
+msgstr "Du har inga arbetare ännu. Tryck på knappen ovan för att skapa en."
 
 #: _pages/pool.php:57
 #, php-format
@@ -436,7 +436,7 @@ msgstr ""
 #: _pages/account.php:7
 #, fuzzy
 msgid "Instant Payout"
-msgstr "Begär utbetalning"
+msgstr "Direkt utbetalning"
 
 #: _pages/account.php:2
 #, php-format
@@ -446,11 +446,11 @@ msgstr ""
 #: _pages/account.php:7
 #, php-format
 msgid "(You must have at least %s BTC to do an instant payout)"
-msgstr ""
+msgstr "(Du måste ha åtminstonde %s BTC för att genomföra en direkt utbetalning)"
 
 #: _pages/account.php:10
 msgid "Donate to us"
-msgstr ""
+msgstr "Donera till oss"
 
 #: _pages/account.php:11
 msgid "If you like our services, we would be pleased to recieve your donation. Below you can donate any amount to us (down to 0.00000001 BTC). This is a one time donation only."
@@ -458,11 +458,11 @@ msgstr ""
 
 #: _pages/account.php:16
 msgid "Make donation"
-msgstr ""
+msgstr "Gör en donation"
 
 #: _pages/account.php:20
 msgid "Account overview"
-msgstr ""
+msgstr "Kontoöverblick"
 
 #: _pages/account.php:21
 msgid "Below you should enter the Bitcoin address to receive payouts to. You could also enter a optional nickname to be displayed in the toplist. Please note that your stats won't be displayed on the toplist unless you set a username (this is due we don't want to publicly show e-mail addresses)."
@@ -474,19 +474,19 @@ msgstr ""
 
 #: _pages/account.php:26
 msgid "Optional Nickname"
-msgstr ""
+msgstr "Användarnamn (frivilligt)"
 
 #: _pages/account.php:29
 msgid "Bitcoin Address (To receive payouts to)"
-msgstr ""
+msgstr "Bitcoin-adress (för att ta emot betalningar)"
 
 #: _pages/account.php:32
 msgid "Select Timezone"
-msgstr "Välj Tidszon"
+msgstr "Välj tidszon"
 
 #: _pages/account.php:42
 msgid "Save Account"
-msgstr ""
+msgstr "Spara konto"
 
 #: _pages/account.php:46
 #: _pages/account.php:59
@@ -551,7 +551,7 @@ msgstr ""
 
 #: _pages/about.php:1
 msgid "Our vision"
-msgstr ""
+msgstr "Vår vision"
 
 #: _pages/about.php:3
 msgid "We have a vision of providing you with the best service available to the lowest or no cost at all. Almost all of our services are free to use for everybody, everywhere. Exactly as bitcoin as a currency was meant to be."
@@ -579,7 +579,7 @@ msgstr ""
 
 #: _pages/about.php:12
 msgid "See ya there!"
-msgstr ""
+msgstr "Vi ses där!"
 
 #: _pages/about.php:14
 msgid "Help us"
@@ -607,7 +607,7 @@ msgstr ""
 
 #: _pages/solved_blocks.php:1
 msgid "Block information (solved blocks)"
-msgstr ""
+msgstr "Blockinformation (lösta block)"
 
 #: _pages/solved_blocks.php:2
 msgid "Coming soon!"
@@ -631,7 +631,7 @@ msgstr ""
 
 #: _pages/free-bitcoins.php:7
 msgid "How do i get started?"
-msgstr ""
+msgstr "Hur sätter jag igång?"
 
 #: _pages/free-bitcoins.php:8
 msgid "It's rather easy, all you need to do is <a href=\"/register\">sign up</a>, add a worker to your account and start let your CPU/GPU start working on solving the block. When you're signed in and visiting this page, you'll see a table with all workers you created and their stats."
@@ -651,7 +651,7 @@ msgstr ""
 
 #: _pages/free-bitcoins.php:14
 msgid "Helpful links"
-msgstr ""
+msgstr "Hjälpsamma länkar"
 
 #: _pages/free-bitcoins.php:22
 msgid "Still need more info? Please read the <a href=\"http://forum.bitcoin.org/index.php?topic=9430.0\">Newbies Guide</a>"
@@ -667,7 +667,7 @@ msgstr ""
 
 #: _includes/Account.class.php:98
 msgid "Instant payout"
-msgstr "Begär utbetalning"
+msgstr "Direkt utbetalning"
 
 #: _includes/Account.class.php:102
 #: _includes/Account.class.php:114
@@ -677,32 +677,32 @@ msgstr "Donation till Bitcoins.lc"
 #: _includes/Account.class.php:106
 #, php-format
 msgid "Received Block %d"
-msgstr "Inbetalning block %d"
+msgstr "Tog emot block %d"
 
 #: _includes/Account.class.php:168
 msgid "Account successfully updated."
-msgstr ""
+msgstr "Konto uppdaterades utan problem."
 
 #: _includes/Account.class.php:178
 msgid "You have to enter both your current password and a new one."
-msgstr ""
+msgstr "Du måste mata in både ditt nuvarande lösenord samt ett nytt."
 
 #: _includes/Account.class.php:183
 #: _includes/User.class.php:42
 msgid "Passwords doesn't match."
-msgstr ""
+msgstr "Lösenorden stämmer inte överens."
 
 #: _includes/Account.class.php:188
 msgid "Your new password must be at least 8 characters long."
-msgstr ""
+msgstr "Ditt nya lösenord måste vara minst 8 tecken långst."
 
 #: _includes/Account.class.php:196
 msgid "Password successfully changed."
-msgstr ""
+msgstr "Lösenordet uppdaterades utan problem."
 
 #: _includes/Account.class.php:200
 msgid "Your current password doesn't match."
-msgstr ""
+msgstr "Ditt nuvarande lösenord stämmer inte med din inmatning."
 
 #: _includes/Account.class.php:224
 msgid "Transaction failed. You must set an payout address in your account settings."
@@ -734,7 +734,7 @@ msgstr ""
 
 #: _includes/User.class.php:47
 msgid "Your password must be at least 8 characters long."
-msgstr ""
+msgstr "Ditt lösenord måste vara minst 8 tecken långt."
 
 #: _includes/User.class.php:65
 msgid "You're already registered, please login with your e-mail address and password or request a new password."
@@ -804,7 +804,7 @@ msgstr ""
 
 #: _includes/config.php:23
 msgid "Buy Bitcoins Cheap"
-msgstr "Köp Billiga Bitcoins"
+msgstr "Köp billiga Bitcoins"
 
 #: _includes/config.php:24
 msgid "Get Free Bitcoins"
@@ -812,12 +812,12 @@ msgstr "Få gratis Bitcoins"
 
 #: _includes/config.php:27
 msgid "Statistics and Top lists"
-msgstr ""
+msgstr "Statistik och Topplista"
 
 #: _includes/config.php:28
 #, fuzzy
 msgid "Transactions"
-msgstr "Dina Transaktionerna"
+msgstr "Dina transaktioner"
 
 #: _includes/config.php:29
 msgid "Your account"
@@ -825,13 +825,13 @@ msgstr "Ditt konto"
 
 #: _includes/DB.class.php:17
 msgid "Could not connect to database server."
-msgstr ""
+msgstr "Kunde inte ansluta till databasserver."
 
 #: _includes/Bitcoins.class.php:17
 msgid "New worker created with id "
-msgstr ""
+msgstr "Ny arbetare skapad med ID "
 
 #: _includes/Bitcoins.class.php:29
 msgid "Worker "
-msgstr "Arbetare"
+msgstr "Arbetare "
 
