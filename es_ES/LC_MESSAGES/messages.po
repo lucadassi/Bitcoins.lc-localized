@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Bitcoins.lc\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-06-09 01:36+0100\n"
-"PO-Revision-Date: 2011-06-09 01:36+0100\n"
+"PO-Revision-Date: 2011-06-09 01:46+0100\n"
 "Last-Translator: Jim Nelin <jim@jine.se>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -602,7 +602,6 @@ msgid "Did you know that our domain name was chosen because of .lc could be asso
 msgstr "¿Sabías que nuestro dominio se eligió porque .lc podría asociarse con \"low cost\"?"
 
 #: _pages/about.php:20
-#, fuzzy
 msgid "Bitcoins.lc is hosted in Sweden, in an advanced virtual hosting environment with full redundancy. Visit <a href=\"http://www.jine.se/\">http://www.jine.se/</a> for more information (in swedish) about their services."
 msgstr "Bitcoins.lc está alojado en Suecia, en un entorno de alojamiento virtual avanzado con redundancia total. Visita <a href=\"http://www.jine.se/\">http://www.jine.se/</a> para más información (en sueco) de sus servicios."
 
@@ -639,7 +638,6 @@ msgid "It's rather easy, all you need to do is <a href=\"/register\">sign up</a>
 msgstr "Es muy fácil, solo tienes que <a href=\"/register\">registrarte</a>, añadir un trabajador a tu cuenta y dejar que tu CPU/GPU comience a trabajar en resolver el bloque. Una vez te hayas registrado y hayas visitado esta página, verás una tabla con todos los trabajadores que has creado y sus estadísticas."
 
 #: _pages/free-bitcoins.php:11
-#, fuzzy
 msgid "Supported software"
 msgstr "Software compatible"
 
@@ -711,12 +709,10 @@ msgid "Transaction failed. You must set an payout address in your account settin
 msgstr "Error en la transacción. Tienes que introducir una dirección de pago en tu configuración de cuenta."
 
 #: _includes/Account.class.php:243
-#, fuzzy, php-format
 msgid "Instant payout of %s BTC sent to %s. <a href=\"http://blockexplorer.com/tx/%s\">View transaction</a>"
 msgstr "Se ha enviado un pago instantáneo de % BTC a %s. <a href=\"http://blockexplorer.com/tx/%s\">Ver transacción</a>."
 
 #: _includes/Account.class.php:247
-#, fuzzy
 msgid "Transaction failed, this could possibly be an error in the system. Please contact us if this error remains."
 msgstr "Error en la transacción, posiblemente por error en el sistema. Ponte en contacto con nosotros si el error persiste."
 
@@ -841,7 +837,6 @@ msgid "Statistics and Top lists"
 msgstr "Estadísticas y lista de los mejores"
 
 #: _includes/config.php:28
-#, fuzzy
 msgid "Transactions"
 msgstr "Tus transacciones"
 
