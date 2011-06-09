@@ -3,15 +3,15 @@ msgstr ""
 "Project-Id-Version: Bitcoins.lc\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-06-08 16:25+0100\n"
-"PO-Revision-Date: 2011-06-09 13:55+0100\n"
-"Last-Translator: \n"
+"PO-Revision-Date: 2011-06-09 16:16+0100\n"
+"Last-Translator: sanchaz <mail@sanchaz.net>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Poedit-KeywordsList: _;gettext;gettext_noop\n"
 "X-Poedit-Basepath: K:\\var\\www\\dev.bitcoins.lc\n"
-"X-Poedit-Language: English\n"
+"X-Poedit-Language: Portuguese\n"
 "X-Poedit-SourceCharset: utf-8\n"
 "X-Poedit-SearchPath-0: .\n"
 
@@ -21,7 +21,7 @@ msgstr "Low Cost Bitcoin Pool - Bitcoins.lc"
 
 #: index.php:31
 msgid "Frontpage"
-msgstr "Pagina Inicial"
+msgstr "Página Inicial"
 
 #: index.php:32
 #: _pages/buy.php:1
@@ -290,7 +290,7 @@ msgstr "Lista dos melhores (mais acções)"
 
 #: _pages/stats.php:114
 msgid "Below you'll see our current top list of users and their total amount of submitted shares. Can't find yourself on the list? Make sure that you actually have filled in the optional nickname field in your Account Overview."
-msgstr "Abaixo encontrarás  uma lista actual dos nossos melhores utilizadores e o seu número total de acções submetidas. Não apareces na lista? Verifica que preencheste o campo opcional nome de utilizador na vista geral da conta (nas definições)."
+msgstr "Abaixo encontrarás  uma lista actual dos nossos melhores utilizadores e o seu número total de acções submetidas. Não apareces na lista? Verifica que preencheste o campo opcional nome de utilizador nos detalhes da conta (nas definições)."
 
 #: _pages/stats.php:119
 msgid "Nickname"
@@ -436,7 +436,7 @@ msgstr "Pagamento Instantâneo"
 #: _pages/account.php:2
 #, php-format
 msgid "Instant payout requires your verified funds balance to be over %s BTC. However we recommend waiting until 1 BTC minimum due to transaction fees. Press the button below to make a payout to your Bitcoin address specified in the account overview."
-msgstr "O Pagamento Instantâneo requer um saldo de fundos verificados acima de %s BTC. De qualquer forma recomendamos que espere até ter 1 BTC devido as taxas transacção impostas pela rede. Pressione o botão para fazer um pagamento para o seu endereço Bitcoin especificado na vista geral de conta (nas definições)."
+msgstr "O Pagamento Instantâneo requer um saldo de fundos verificados acima de %s BTC. De qualquer forma recomendamos que espere até ter 1 BTC devido as taxas transacção impostas pela rede. Pressione o botão para fazer um pagamento para o seu endereço Bitcoin especificado nos detalhes da conta (nas definições)."
 
 #: _pages/account.php:7
 #, php-format
@@ -510,234 +510,234 @@ msgstr "O que é o Bitcoins.lc?"
 
 #: _pages/main.php:2
 msgid "A mining pool for Bitcoin without any fees or costs. Here you can gather free Bitcoins and trade bitcoins for real cash. We have full IPv6 support and a lot more compared to other mining pools. More information will come shortly, in mean time - why don't you try our services?"
-msgstr ""
+msgstr "Uma mining pool (Grupo de mineiros) para o Bitcoin sem quaisquer custos. Aqui pode juntar Bitcoins gratuitamente e trocar por dinheiro. Nós temos suporte IPv6 e muito mais quando comparado com outras pools. Mais informação estará disponível brevemente, entretanto porque não experimenta os nossos serviços?"
 
 #: _pages/main.php:4
 msgid "Getting started with Bitcoins"
-msgstr ""
+msgstr "Começar com os Bitcoins"
 
 #: _pages/main.php:5
 msgid "It's rather easy to get started with mining free Bitcoins, all you need to do is register a new account, sign in and create a worker. You can find more information and how-to's on the web."
-msgstr ""
+msgstr "É bastante simples de começar a minar por Bitcoins gratuitamente, todo o que precisa de fazer, é registar uma conta, inciar sessão e criar um trabalhador. Poderá encontrar mais informação e tutoriais na web."
 
 #: _pages/main.php:7
 msgid "What is <em>Bitcoin</em>?"
-msgstr ""
+msgstr "O que é o <em>Bitcoin</em>?"
 
 #: _pages/main.php:9
 msgid "Bitcoin a digital currency using peer-to-peer technology to make transactions and verify those. The name also refers to the open source software that uses it, and the peer-to-peer network that it forms."
-msgstr ""
+msgstr "O Bitcoin é uma moeda digital que faz uso da tecnologia peer-to-peer para efectuar transacções e verificar as mesmas. O nome também se refere ao software opensource que usa, e a rede peer-to-peer que forma."
 
 #: _pages/main.php:10
 msgid "Unlike most currencies, Bitcoin does not rely on trusting any central issuer or central bank. Bitcoin uses a distributed database spread across nodes of a peer-to-peer network to journal transactions, and uses cryptography to provide advanced security functions, such as ensuring that Bitcoins can only be spent by the person who owns them, and never more than once."
-msgstr ""
+msgstr "Ao contrário da maior parte das moedas, o Bitcoin não se assenta em confiar um entidade central ou um banco central. O Bitcoin usa bases de dados distribuídas pelos vários nodes na rede peer-to-peer para guardar as transacções, e usa criptografia para fornecer avançadas funções de segurança, assegurando que os Bitcoins só podem ser gastos pela pessoa que os detém e nunca mais do que uma vez."
 
 #: _pages/main.php:11
 msgid "Bitcoin's design allows for <strong>anonymous</strong> ownership and transfers. Bitcoins can be saved on a personal computer in the form of a wallet file or kept with a third party wallet service, and in either case Bitcoins can be sent over the Internet to anyone with a Bitcoin address."
-msgstr ""
+msgstr "O desenho do Bitcoin permite completa anonimidade na posse e nas transacções de Bitcoins. Os Bitcoins podem ser guardados no computador pessoal usando uma carteira digital (ficheiro que guarda os dados) ou pode ser usado um serviço de carteira digital providenciado por terceiros."
 
 #: _pages/main.php:12
 msgid "Bitcoin's peer-to-peer topology and lack of central administration make it infeasible for any authority, governmental or otherwise, to manipulate the value of Bitcoins or induce inflation by producing more of them. It also makes it near-impossible trace to you as a person."
-msgstr ""
+msgstr "A topologia peer-to-peer do Bitcoin e o facto de não ter qualquer administração central, fazem com que seja praticamente impossível qualquer autoridade governamental ou outra, manipular o seu valor ou induzir inflação produzindo mais Bitcoins. Também torna a sua identificado muito difícil."
 
 #: _pages/main.php:14
 msgid "We think bitcoin is the future. Try our services now to get your own opinion."
-msgstr ""
+msgstr "Nós achamos que o Bitcoin é o futuro. Experimente os nossos serviços e de-nos a sua opinião."
 
 #: _pages/about.php:1
 msgid "Our vision"
-msgstr ""
+msgstr "A nossa missão"
 
 #: _pages/about.php:3
 msgid "We have a vision of providing you with the best service available to the lowest or no cost at all. Almost all of our services are free to use for everybody, everywhere. Exactly as bitcoin as a currency was meant to be."
-msgstr ""
+msgstr "Nos temos como missão providencia-lo com os melhores serviços possíveis aos preços mais baixos ou até mesmo sem qualquer custo. Quase todos os nossos serviços são gratuitos para qualquer um, em qualquer sitio. Exactamente como Bitcoin como moeda é suposto ser."
 
 #: _pages/about.php:6
 msgid "Bitcoin.lc was founded in May 2011 by the Swedish entrepreneur Jim Nelin and some friends. We noticed that all Bitcoin services available had fees and other unwanted features, so we decided to create our own mining pool and marketplace for bitcoins."
-msgstr ""
+msgstr "O Bitcoin.lc foi fundado a Maio de 2011 pelo Empreendedor Sueca Jim Nelin e alguns amigos. Nós apercebemos-nos que todos os serviços Bitcoin disponíveis tinham taxas ou serviços que não eram necessários, por decidimos criar a nossa mining pool e mercado para o Bitcoin."
 
 #: _pages/about.php:7
 msgid "A number of persons responded to our idea and wanted in - and here we are. The system is developed by Jim him self in under a week and is just released publicly. It may contain bugs and issues, but they are solved as soon as reported. Don't hesitate to contact us if you have any questions or suggestions."
-msgstr ""
+msgstr "Um número de pessoas gostaram da nossa ideia e quiseram participar e aqui estamos nós. O sistema foi desenvolvido pelo proprio Jim em menos de uma semana e está disponivel para todos. Pode conter bugs e alguns problemas, que são resolvidos assim que são reportados. Não hesite em contactar-nos com questões ou sugestões."
 
 #: _pages/about.php:8
 msgid "You'll find our e-mail address at the bottom of this page, or join our IRC channel and speak to us directly!"
-msgstr ""
+msgstr "Encontrará o nosso endereço de e-mail no final desta página, ou junte-se a nós no IRC e fale connosco directamente!"
 
 #: _pages/about.php:10
 msgid "Chat with us"
-msgstr ""
+msgstr "Fale connosco"
 
 #: _pages/about.php:11
 msgid "We have a IRC-channel dedicated to Bitcoins.lc. The channel is <a href=\"irc://irc.quakenet.org:6667/bitcoins.lc\">#bitcoins.lc</a> and it is located on Quakenet - irc.quakenet.org. Come and join us with your own client - or just use the <a href=\"/chat\">webchat</a>."
-msgstr ""
+msgstr "Nós temos um canal IRC dedicado ao Bitcoins.lc. O canal é <a href=\"irc://irc.quakenet.org:6667/bitcoins.lc\">#bitcoins.lc</a> na Quakenet - irc.quakenet.org. Venha e junte-se a nós utilizando o seu cliente IRC ou utilize o nosso <a href=\"/chat\">webchat</a>."
 
 #: _pages/about.php:12
 msgid "See ya there!"
-msgstr ""
+msgstr "Vemos-nos lá!"
 
 #: _pages/about.php:14
 msgid "Help us"
-msgstr ""
+msgstr "Ajude-nos"
 
 #: _pages/about.php:15
 msgid "The best and esiest way to help us is to ask friends and family to join us. Spread the word about <em>bitcoin</em> and <em>bitcoins.lc</em> using facebook, twitter and other mediums. You'll find links at the bottom of each page."
-msgstr ""
+msgstr "A maneira mais fácil de nos ajudar é pedindo à família e amigos que se juntem a nós. Espalhe a palavra sobre o <em>Bitcoin</em> e o <em>Bitcoins.lc</em> usando o facebook, twitter e outros meios. Encontrará os links no final de cada página."
 
 #: _pages/about.php:16
 msgid "<strong>Please donate if you like our services.</strong> It will keep us going and growing. Our Bitcoin Address is displayed at the bottom of all pages."
-msgstr ""
+msgstr "<strong>Por favor doe se gostar dos nossos serviços.</strong> Irá nos ajudar a continuar e a crescer. O nosso endereço Bitcoin encontra-se disposto no final de todas as páginas."
 
 #: _pages/about.php:18
 msgid "Interesting facts"
-msgstr ""
+msgstr "Factos de Interesse"
 
 #: _pages/about.php:19
 msgid "Did you know that our domain name was chosen because of .lc could be associated to \"low cost\"?"
-msgstr ""
+msgstr "Sabia que o nosso domínio foi escolhido devido ao .lc estar associado a \"low cost\"?"
 
 #: _pages/about.php:20
 msgid "Bitcoins.lc is hosted in Sweden, in an advanced virtual hosting enviorment with full redundancy. Visit <a href=\"http://www.jine.se/\">http://www.jine.se/</a> for more information (in swedish) about their services."
-msgstr ""
+msgstr "O Bitcoins.lc está alojado na Suécia, num ambiente de hosting vitual altamente avançado e com redundancia total. Visite <a href=\"http://www.jine.se/\">http://www.jine.se/</a>para mais informações (em Sueco) sobre os seus serviços."
 
 #: _pages/solved_blocks.php:1
 msgid "Block information (solved blocks)"
-msgstr ""
+msgstr "Informações sobre blocos (Blocos resolvidos)"
 
 #: _pages/solved_blocks.php:2
 msgid "Coming soon!"
-msgstr ""
+msgstr "Brevemente!"
 
 #: _pages/free-bitcoins.php:1
 msgid "Bitcoin Mining Pool"
-msgstr ""
+msgstr "Bitcoin Mining Pool"
 
 #: _pages/free-bitcoins.php:3
 msgid "We are running a <em>Mining Pool</em> for solving blocks and generating Bitcoins together. Bitcoins are only created in chunks of 50 BTC at a time, with the whole sum paid to a single person. There's however one issue: it would take forever for one person to mine an entire block. Pooled mining is a way for multiple users to work together to solve blocks and earn free Bitcoins, all it takes is time and hashpower."
-msgstr ""
+msgstr "Estamos a correr uma <em>Mining Pool (Minar em grupo)</em> para resolvermos blocos e gerarmos Bitcoins juntos. Os Bitcoins so são criados em grupos de 50 BTC de cada vez, sendo a quantia paga a uma pessoa só. Existe no entanto um problema, demoraria muito tempo para uma pessoa sozinha minar um bloco inteiro. Pooled mining é portanto uma maneira de múltiplos utilizadores se juntarem para resolver blocos e receberem Bitcoins, tudo o que é necessário é tempo e poder de hash."
 
 #: _pages/free-bitcoins.php:5
 msgid "How does it work?"
-msgstr ""
+msgstr "Como é que funciona?"
 
 #: _pages/free-bitcoins.php:6
 msgid "When a block is solved (usually in a couple of hours, depending on number of currently active pool users) the coins are distributed fairly among the users contributed to the block. <b>We're not taking any fee</b> or extra costs for the solved block. The whole 50 BTC is distrubuted fairly among users that helped solving that block, based on the amount of shares the user contributed with."
-msgstr ""
+msgstr "Quando um bloco é resolvido (normalmente numa questão de horas, dependo do numero de utilizador activos) as moedas são distribuídas pelos utilizadores que contribuíram para o bloco. <b> Nós não cobramos quaisquer taxas ou custos extra pelos blocos resolvidos.</b> Os 50 BTC são divididos inteiramente por todos os utilizador ajudaram a resolver esse bloco, tendo em conta o números de acções que cada utilizador contribuiu."
 
 #: _pages/free-bitcoins.php:7
 msgid "How do i get started?"
-msgstr ""
+msgstr "Como é que começo?"
 
 #: _pages/free-bitcoins.php:8
 msgid "It's rather easy, all you need to do is <a href=\"/register\">sign up</a>, add a worker to your account and start let your CPU/GPU start working on solving the block. When you're signed in and visiting this page, you'll see a table with all workers you created and their stats."
-msgstr ""
+msgstr "É bastante simples, tudo o que é necessário é <a href=\"/register\">registar-se</a>, adicionar um trabalhador a sua conta e deixar o seu CPU/GPU começar trabalhar para resolver o bloco. Quando tem sessão inciada e visitar esta página, verá uma lista de todos os trabalhadores que criou e as suas estatísticas."
 
 #: _pages/free-bitcoins.php:11
 msgid "Ssupported software"
-msgstr ""
+msgstr "Software Suportado"
 
 #: _pages/free-bitcoins.php:12
 msgid "We support all common and publicly available miners, including Phoenix miner, Ufasoft's CPU miner, jgarzik's CPU miner, Diablo's GPU miner, m0mchil's GPU miner and puddinpop's CPU/GPU miners and alot more. <b>Long Polling is of course enabled, and recommended to use.</b>"
-msgstr ""
+msgstr "Nós suportamos todos os mineiros, incluindo o Phoenix miner, Ufasoft's CPU miner, jgarzik's CPU miner, Diablo's GPU miner, m0mchil's GPU miner and puddinpop's CPU/GPU miners e muitos mais. <b>Long Polling é suportado, e recomenda-se o seu uso.</b>"
 
 #: _pages/free-bitcoins.php:13
 msgid "If your using Windows for mining, we recommend you trying our GUI miner which makes things alot esier for you. Just fill out GUIMiner as viewed to the left (don't forget workers username and password), select a device, and you're ready to start earning Bitcoins. Read more on how to tweak and get the most out of GUIMiner in <a href=\"http://forum.bitcoin.org/index.php?topic=3878.0\">this thread</a>."
-msgstr ""
+msgstr "Se está a utilizar o Windows para minar, nós recomendamos que experimente o nosso GUI miner que torna as coisas muito mais simples. Introduza os campo do GUIMiner conforme vê à esquerda (não se esqueça de preencher o nome de utilizador e palavra-passe dos trabalhadores), seleccione um dispositivo, e está pronto para começar a ganhar Bitcoins. Leia mais sobre como optimizar e tirar melhorar partido do GUIMiner neste <a href=\"http://forum.bitcoin.org/index.php?topic=3878.0\">tópico</a>."
 
 #: _pages/free-bitcoins.php:14
 msgid "Helpful links"
-msgstr ""
+msgstr "Links Úteis"
 
 #: _pages/free-bitcoins.php:22
 msgid "Still need more info? Please read the <a href=\"http://forum.bitcoin.org/index.php?topic=9430.0\">Newbies Guide</a>"
-msgstr ""
+msgstr "Ainda necessita de mais informação? Por favor leia <a href=\"http://forum.bitcoin.org/index.php?topic=9430.0\">Guia para iniciantes</a>(Em Inglês)."
 
 #: _includes/Account.class.php:67
 msgid "Thanks for your donation, we really appreciate it!"
-msgstr ""
+msgstr "Obrigado pela doação, ficamos muito gratos!"
 
 #: _includes/Account.class.php:71
 msgid "You don't have enough funds for that donation."
-msgstr ""
+msgstr "Não possuem fundos suficientes para efectuar essa doação."
 
 #: _includes/Account.class.php:98
 msgid "Instant payout"
-msgstr ""
+msgstr "Pagamento Instantâneo"
 
 #: _includes/Account.class.php:102
 #: _includes/Account.class.php:114
 msgid "Donation to Bitcoins.lc"
-msgstr ""
+msgstr "Doação ao Bitcoins.lc"
 
 #: _includes/Account.class.php:106
 #, php-format
 msgid "Received Block %d"
-msgstr ""
+msgstr "Recebido o Bloco %d"
 
 #: _includes/Account.class.php:168
 msgid "Account successfully updated."
-msgstr ""
+msgstr "Conta actualizada com sucesso."
 
 #: _includes/Account.class.php:178
 msgid "You have to enter both your current password and a new one."
-msgstr ""
+msgstr "Tem de introduzir ambas as palavras-passe, a actual e a nova."
 
 #: _includes/Account.class.php:183
 #: _includes/User.class.php:42
 msgid "Passwords doesn't match."
-msgstr ""
+msgstr "As palavras-passe não são iguais."
 
 #: _includes/Account.class.php:188
 msgid "Your new password must be at least 8 characters long."
-msgstr ""
+msgstr "A sua nova palavra-passe deve ter pelo menos 8 caracteres de comprimento."
 
 #: _includes/Account.class.php:196
 msgid "Password successfully changed."
-msgstr ""
+msgstr "Palavra-passe alterada com sucesso."
 
 #: _includes/Account.class.php:200
 msgid "Your current password doesn't match."
-msgstr ""
+msgstr "A sua palavra-passe actual não coincide."
 
 #: _includes/Account.class.php:224
 msgid "Transaction failed. You must set an payout address in your account settings."
-msgstr ""
+msgstr "Transacção falhou. Tem de colocar um endereço Bitcoin nas definições da sua conta para poder efectuar pagamentos."
 
 #: _includes/Account.class.php:243
 #, php-format
 msgid "Instant payout of %s BTC sent to %s. <a href=\"http://blockexplorer.com/tx/%s\">View transaction</a>"
-msgstr ""
+msgstr "Pagamento instantâneo de %s BTC enviado para %s. <a href=\"http://blockexplorer.com/tx/%s\">Ver transacção</a>"
 
 #: _includes/Account.class.php:247
 msgid "Transaction failed, this could possible be an error in the system. Please contact us if this error remains."
-msgstr ""
+msgstr "Transacção falhou, isto pode dever-se a um erro do sistema. Por favor contacte-nos se o problema persistir."
 
 #: _includes/Account.class.php:252
 #, php-format
 msgid "You don't meet the balance requirement for an instant payout. Your balance is less then %s BTC."
-msgstr ""
+msgstr "Não tem os fundos minimos necessarios para efectuar um pagamento instantaneo. O seu saldo é menos de %s BTC."
 
 #: _includes/User.class.php:14
 #: _includes/User.class.php:37
 #: _includes/User.class.php:76
 msgid "Invalid e-mail address."
-msgstr ""
+msgstr "Endereço de e-mail inválido."
 
 #: _includes/User.class.php:27
 msgid "Wrong credentials or you're not registered. Please register below or request a new password."
-msgstr ""
+msgstr "Dados errados, ou não está registado. Por favor registe-se abaixo ou peça uma nova palavra-passe."
 
 #: _includes/User.class.php:47
 msgid "Your password must be at least 8 characters long."
-msgstr ""
+msgstr "A sua palavra-passe deve ter no mínimo 8 caracteres."
 
 #: _includes/User.class.php:65
 msgid "You're already registered, please login with your e-mail address and password or request a new password."
-msgstr ""
+msgstr "Já está registado, por favor faça login com o seu endereço de e-mail e palavra-passe ou peça uma nova palavra-passe."
 
 #: _includes/User.class.php:91
 msgid "Password Reset for Bitcoins.lc"
-msgstr ""
+msgstr "Nova palavra-passe para o Bitcoins.lc"
 
 #: _includes/User.class.php:95
 #, php-format
@@ -754,23 +754,34 @@ msgid ""
 "Regards, \n"
 "Bitcoins.lc"
 msgstr ""
+"Olá!\n"
+"\n"
+"Foi enviada um pedido de nova palavra-passe a partir do IP: %s.\n"
+"Se não pediu uma nova palavra-passe, pode ignorar este e-mail sem se preocupar.\n"
+"\n"
+"Para pedir a nova palavra-passe siga este link:\n"
+"https://www.bitcoins.lc/reset-password?token=%s\n"
+"\n"
+"--\t\t\t\n"
+"Cumprimentos, \n"
+"Bitcoins.lc"
 
 #: _includes/User.class.php:111
 #: _includes/User.class.php:165
 msgid "The password reset could not be sent out. If this error remains, please contact info@bitcoins.lc."
-msgstr ""
+msgstr "A nova palavra-passe não foi enviada. Se o problema persistir, por favor contacte info@bitcoins.lc."
 
 #: _includes/User.class.php:116
 msgid "An e-mail with more information has been sent to the address you provided."
-msgstr ""
+msgstr "Um email com mais informação foi enviado para o endereço de e-mail que indicou."
 
 #: _includes/User.class.php:124
 msgid "No user with that e-mail address found. Please register a new account below or try again."
-msgstr ""
+msgstr "Não foi encontrado qualquer utilizador com esse endereço de e-mail. Por favor registe uma nova conta abaixo ou tente outra vez."
 
 #: _includes/User.class.php:145
 msgid "Your new password for Bitcoins.lc"
-msgstr ""
+msgstr "A sua nova palavra-passe para o Bitcoins.lc"
 
 #: _includes/User.class.php:148
 #, php-format
@@ -788,36 +799,48 @@ msgid ""
 "Regards, \n"
 "Bitcoins.lc"
 msgstr ""
+"Olá!\n"
+"\n"
+"Como pedido, foi lhe gerada uma nova palavra-passe. Os novos dados são os seguintes:\n"
+"\n"
+"Nome de Utilizador: %s\n"
+"Palavra-passe: %s\n"
+"\n"
+"Para alterar a palavra-passe, por favor visite esta paǵina: https://www.bitcoins.lc/account qaundo tiver a sessão inciada.\n"
+"\n"
+"--\t\t\t\n"
+"Cumprimentos, \n"
+"Bitcoins.lc"
 
 #: _includes/User.class.php:170
 msgid "An e-mail with your new password has been sent out."
-msgstr ""
+msgstr "Um email com a sua nova password foi enviado."
 
 #: _includes/User.class.php:176
 msgid "Invalid password reset token."
-msgstr ""
+msgstr "Token para nova password inválido."
 
 #: _includes/config.php:27
 msgid "Buy Bitcoins Cheap"
-msgstr ""
+msgstr "Comprar Bitcoins baratas."
 
 #: _includes/config.php:28
 msgid "Get Free Bitcoins"
-msgstr ""
+msgstr "Arranje Bitcoins Gratuitas"
 
 #: _includes/config.php:31
 msgid "Statistics and Top lists"
-msgstr ""
+msgstr "Estatisticas e Listas dos melhores (TOP)"
 
 #: _includes/DB.class.php:17
 msgid "Could not connect to database server."
-msgstr ""
+msgstr "Não foi possivel estabelecer ligação com a base de dados."
 
 #: _includes/Bitcoins.class.php:17
 msgid "New worker created with id "
-msgstr ""
+msgstr "Novo trabalhador criado com o id"
 
 #: _includes/Bitcoins.class.php:29
 msgid "Worker "
-msgstr ""
+msgstr "Trabalhador"
 
