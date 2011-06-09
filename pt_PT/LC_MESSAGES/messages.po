@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Bitcoins.lc\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2011-06-08 16:25+0100\n"
-"PO-Revision-Date: 2011-06-08 17:55+0100\n"
+"PO-Revision-Date: 2011-06-09 13:55+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -87,7 +87,7 @@ msgstr "Introduza o seu email"
 
 #: index.php:74
 msgid "Restore password"
-msgstr "Recuperar palavra-pass"
+msgstr "Recuperar palavra-passe"
 
 #: index.php:75
 msgid "Return to login"
@@ -99,7 +99,7 @@ msgstr "Bem-vindo ao Bitcoins.lc"
 
 #: index.php:81
 msgid "Logged in as"
-msgstr "Está identificado como"
+msgstr "Sessão iniciada como"
 
 #: index.php:81
 msgid "Settings"
@@ -182,329 +182,331 @@ msgstr "Estatísticas Gerais"
 #: _pages/stats.php:1
 #: _pages/stats.php:113
 msgid "Show in JSON"
-msgstr ""
+msgstr "Mostrar em JSON"
 
 #: _pages/stats.php:2
 msgid "Below here you'll find general statistics and information about the current progress. Data is cached 45 to 90 seconds depending on type of data. Please don't hammer this page."
-msgstr ""
+msgstr "Abaixo encontrarás estatísticas gerais e informação sobre o progresso actual. Os dados estão em cache de 45s até 90s dependendo do tipo de dados. Por favor não massacres a página."
 
 #: _pages/stats.php:6
 msgid "Total pool performance"
-msgstr ""
+msgstr "Performance total da pool"
 
 #: _pages/stats.php:10
 msgid "Current round started at"
-msgstr ""
+msgstr "Ronda actual inicia na "
 
 #: _pages/stats.php:14
 msgid "Current round duration"
-msgstr ""
+msgstr "Duração da ronda actual"
 
 #: _pages/stats.php:18
 msgid "Valid shares for current round"
-msgstr ""
+msgstr "Acções válidas da ronda actual"
 
 #: _pages/stats.php:22
 msgid "Shares for current round"
-msgstr ""
+msgstr "Acções da ronda actual"
 
 #: _pages/stats.php:30
 msgid "Previous round started at"
-msgstr ""
+msgstr "Ronda anterior iniciada na"
 
 #: _pages/stats.php:34
 msgid "Previous round finished at"
-msgstr ""
+msgstr "Ronda anterior acabada na"
 
 #: _pages/stats.php:38
 msgid "Previous round duration"
-msgstr ""
+msgstr "Duração da ronda anterior"
 
 #: _pages/stats.php:42
 msgid "Valid shares for previous round"
-msgstr ""
+msgstr "Acções válidas da ronda anterior"
 
 #: _pages/stats.php:46
 msgid "Shares for previous round"
-msgstr ""
+msgstr "Acções da ronda anterior"
 
 #: _pages/stats.php:55
 msgid "Current block received"
-msgstr ""
+msgstr "Bloco actual recebido a"
 
 #: _pages/stats.php:59
 msgid "Lifetime for current block"
-msgstr ""
+msgstr "Tempo de vida do bloco actual"
 
 #: _pages/stats.php:63
 msgid "Current block"
-msgstr ""
+msgstr "Bloco actual"
 
 #: _pages/stats.php:67
 msgid "Current difficulty"
-msgstr ""
+msgstr "Dificuldade actual"
 
 #: _pages/stats.php:71
 msgid "Active workers"
-msgstr ""
+msgstr "Trabalhadores activos"
 
 #: _pages/stats.php:75
 msgid "Solved blocks"
-msgstr ""
+msgstr "Blocos resolvidos"
 
 #: _pages/stats.php:75
 msgid "Show block info"
-msgstr ""
+msgstr "Mostrar informação do bloco"
 
 #: _pages/stats.php:83
 msgid "Latest block solved by"
-msgstr ""
+msgstr "Último bloco resolvido por"
 
 #: _pages/stats.php:87
 msgid "Shares for current block"
-msgstr ""
+msgstr "Acções válidas para o bloco actual"
 
 #: _pages/stats.php:92
 msgid "Total num. of valid shares"
-msgstr ""
+msgstr "Número total de acções válidas"
 
 #: _pages/stats.php:96
 msgid "Total num. of shares"
-msgstr ""
+msgstr "Número total de acções"
 
 #: _pages/stats.php:101
 msgid "Total num. of workers"
-msgstr ""
+msgstr "Número total de trabalhadores"
 
 #: _pages/stats.php:105
 msgid "Total num. of users"
-msgstr ""
+msgstr "Número total de utilizadores"
 
 #: _pages/stats.php:111
 msgid "More stats will come with time, if you have any suggestions - please let us know!"
-msgstr ""
+msgstr "Teremos mais estatísticas dentro de pouco tempo, se tiveres alguma sugestão, avisa-nos!"
 
 #: _pages/stats.php:113
 msgid "Top list (Shares)"
-msgstr ""
+msgstr "Lista dos melhores (mais acções)"
 
 #: _pages/stats.php:114
 msgid "Below you'll see our current top list of users and their total amount of submitted shares. Can't find yourself on the list? Make sure that you actually have filled in the optional nickname field in your Account Overview."
-msgstr ""
+msgstr "Abaixo encontrarás  uma lista actual dos nossos melhores utilizadores e o seu número total de acções submetidas. Não apareces na lista? Verifica que preencheste o campo opcional nome de utilizador na vista geral da conta (nas definições)."
 
 #: _pages/stats.php:119
 msgid "Nickname"
-msgstr ""
+msgstr "Nome de utilizador"
 
 #: _pages/stats.php:120
 msgid "Submitted shares"
-msgstr ""
+msgstr "Acções submetidas"
 
 #: _pages/transactions.php:1
 msgid "Your Transactions"
-msgstr ""
+msgstr "As tuas transacções"
 
 #: _pages/transactions.php:2
 msgid "Below you can see the full list of transactions linked to your account. Due to a change in the transaction system, it's only transactions since the 1th of June that's showed."
-msgstr ""
+msgstr "Abaixo poderá ver de todas as transacções ligadas a esta conta. Devido a alterações no sistema, apenas as transacções após o dia 1 de Junho serão mostradas."
 
 #: _pages/transactions.php:31
 msgid "No transactions found."
-msgstr ""
+msgstr "Não foram encontradas transacções."
 
 #: _pages/register.php:2
 msgid ""
 "To use our services you'll need an account. Please fill in the fields below to register to our service.<br>\n"
 "Please note that we will never send spam, share your information with <b>anyone</b> or use the information in any bad way."
 msgstr ""
+"Para utilizar o nosso serviço necessita de uma conta. Por favor preencha os campos abaixo para se registar no nosso serviço.<br>\n"
+"Nunca enviaremos correio não desejado, não partilharemos a sua informação com <b>ninguém</b>, nem a utilizaremos de modo ilícito."
 
 #: _pages/register.php:4
 msgid "All fields below are required."
-msgstr ""
+msgstr "Todos os campos abaixo são de preenchimento obrigatório."
 
 #: _pages/register.php:9
 msgid "E-mail address:"
-msgstr ""
+msgstr "Endereço de E-mail:"
 
 #: _pages/register.php:12
 msgid "Password:"
-msgstr ""
+msgstr "Palavra-passe:"
 
 #: _pages/register.php:15
 msgid "Repeat password:"
-msgstr ""
+msgstr "Repetir palavra-passe:"
 
 #: _pages/register.php:18
 msgid "Sign up"
-msgstr ""
+msgstr "Registar"
 
 #: _pages/pool.php:1
 msgid "Information"
-msgstr ""
+msgstr "Informação"
 
 #: _pages/pool.php:2
 msgid "We are running a <em>Mining Pool</em> for solving blocks and generating bitcoins together. Bitcoins are only created in chunks of 50 BTC at a time, with the whole sum paid to a single person. There's however one issue: it would take forever for one person to mine an entire block. Pooled mining is a way for multiple users to work together to solve blocks and get Bitcoins, all it takes is time and hashpower."
-msgstr ""
+msgstr "Estamos a correr uma <em>Mining Pool (Minar em grupo)</em> para resolvermos blocos e gerarmos Bitcoins juntos. Os Bitcoins so são criados em grupos de 50 BTC de cada vez, sendo a quantia paga a uma pessoa só. Existe no entanto um problema, demoraria muito tempo para uma pessoa sozinha minar um bloco inteiro. Pooled mining é portanto uma maneira de múltiplos utilizadores se juntarem para resolver blocos e receberem Bitcoins, tudo o que é necessário é tempo e poder de hash."
 
 #: _pages/pool.php:4
 msgid "When a block is solved (usually in a couple of hours, depending on number of currently active pool users) the users get a proportionally big cut of the block compared to how much hash power they provided during the last block mining. <b>We're not taking any fees or extra costs for the solved block.</b> The whole 50 BTC is distrubuted among users that helped solving that block."
-msgstr ""
+msgstr "Quando um bloco é resolvido (normalmente numa questão de horas, dependo do numero de utilizador activos) os utilizadores recebem uma porção do bloco tendo em conta o seu poder de hash que eles disponibilizaram para o ultimo bloco minado. <b> Nós não cobramos quaisquer taxas ou custos extra pelos blocos resolvidos.</b> Os 50 BTC são divididos inteiramente por todos os utilizador ajudaram a resolver esse bloco."
 
 #: _pages/pool.php:6
 #: _pages/pool.php:12
 msgid "Create new worker"
-msgstr ""
+msgstr "Criar um novo trabalhador"
 
 #: _pages/pool.php:7
 msgid "For each individual instance of your miner you'll need an unique worker to access our service. For example, if you have two graphic cards with one GPU each you will need two workers. If you're mining with both CPU and GPU, you will need one worker for your CPU and one for GPU, and so on."
-msgstr ""
+msgstr "Para cada instanciá do seu mineiro necessitará de um trabalhador único para aceder ao nosso serviço. Por exemplo, se tiver duas placas gráficas, cada uma com um GPU, necessitará de dois trabalhadores. Se está a minar com o CPU e GPU, necessitará de um trabalhador para o CPU e outro para o GPU, e por aí fora."
 
 #: _pages/pool.php:8
 msgid "Press the following button to create a new worker."
-msgstr ""
+msgstr "Pressione o seguinte botão para criar um novo trabalhador."
 
 #: _pages/pool.php:15
 msgid "Manage your workers"
-msgstr ""
+msgstr "Gerir Trabalhadores"
 
 #: _pages/pool.php:16
 msgid "Below is a table with necessary information to get started. Use a miner of your choice (preferably with long-polling support) and point it to the URL below with the generated username and password"
-msgstr ""
+msgstr "Abaixo encontrará uma tabela com as informações necessárias para começar. Utilize um mineiro a sua escolha ( de preferência um que suporte long-polling) and direccione-o para o url indicado abaixo, utilizando o nome de utilizador e password gerados."
 
 #: _pages/pool.php:17
 #, php-format
 msgid "The Shares column represents the amount of valid shares that worker has reported in the last %d minutes. The total amount of shares the last %d min are shown next to it. If those two numbers are very different, you maybe having trouble with Long-polling support or similar (a lot of stale work)."
-msgstr ""
+msgstr "A coluna acções representa a qauntidade de acções válidas que este trabalhador já enviou nos últimos %d minutos. O número total de acções nos ultimos %d minutos estão ao lado. Se esses dois forem muito differentes, então pode estar a ter problemas com Lon-polling or algo parecido (Trabalho antigo e não válido)."
 
 #: _pages/pool.php:21
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #: _pages/pool.php:22
 msgid "Username"
-msgstr ""
+msgstr "Nome de utilizador"
 
 #: _pages/pool.php:24
 msgid "URL"
-msgstr ""
+msgstr "URL"
 
 #: _pages/pool.php:25
 msgid "Shares"
-msgstr ""
+msgstr "Acções"
 
 #: _pages/pool.php:26
 msgid "Hashrate"
-msgstr ""
+msgstr "Poder de Hash"
 
 #: _pages/pool.php:44
 msgid "Delete this worker"
-msgstr ""
+msgstr "Eliminar este trabalhador"
 
 #: _pages/pool.php:50
 msgid "You don't have any workers yet, press the button above to create one..."
-msgstr ""
+msgstr "Ainda não criou um trabalhador, pressione o botão acima para criar um..."
 
 #: _pages/pool.php:57
 #, php-format
 msgid "Please note that both the total and the individual worker hashrates shown above is an estimate (based on the number of shares the last %d minutes) and will not always represent the actual value your miner reports. It's the value that your miner reports that counts!"
-msgstr ""
+msgstr "Tenha em atençãp que o poder total de Hash mostrado e o poder de Hash dos trabalhadores são estimativas (baseadas no número de acções dos ultimos %d minutos) e nem sempre representam o valor do seu mineiro. É valor que o seu mineiro reporta que conta!"
 
 #: _pages/buy.php:2
 msgid "This section will open soon. You'll able to buy Bitcoins here using your credit card and/or other methods of funds. Please check back in a while to discover more what we have to offer."
-msgstr ""
+msgstr "Esta secção abrirá em breve. Poderá comprar Bitcoins aqui utilizando o cartão de crédito ou outro tipo de fundos. Por favor volte daqui a uns tempos para verificar o que temos para oferecer."
 
 #: _pages/sell.php:2
 msgid "This section will open soon. Here you'll be able to sell your bitcoins to best offer avaiable. We'll be able to pay you using number of services and currencies."
-msgstr ""
+msgstr "Está secção abrirá em breve. Aqui poderá vender as suas Bitcoins a melhor oferta. Teremos um vasto número de métodos de pagamento e várias moedas."
 
 #: _pages/404.php:1
 msgid "Page not found"
-msgstr ""
+msgstr "Página não encontrada"
 
 #: _pages/404.php:2
 #, php-format
 msgid "We couldn't find <em>%s</em> on our server, though it's most certainly not your fault."
-msgstr ""
+msgstr "Não conseguimos encontrar <em>%s</em> no nosso servidor, mas de certeza que a culpa não é sua."
 
 #: _pages/account.php:1
 #: _pages/account.php:7
 msgid "Instant Payout"
-msgstr ""
+msgstr "Pagamento Instantâneo"
 
 #: _pages/account.php:2
 #, php-format
 msgid "Instant payout requires your verified funds balance to be over %s BTC. However we recommend waiting until 1 BTC minimum due to transaction fees. Press the button below to make a payout to your Bitcoin address specified in the account overview."
-msgstr ""
+msgstr "O Pagamento Instantâneo requer um saldo de fundos verificados acima de %s BTC. De qualquer forma recomendamos que espere até ter 1 BTC devido as taxas transacção impostas pela rede. Pressione o botão para fazer um pagamento para o seu endereço Bitcoin especificado na vista geral de conta (nas definições)."
 
 #: _pages/account.php:7
 #, php-format
 msgid "(You must have at least %d BTC to do an instant payout)"
-msgstr ""
+msgstr "(Tem de ter pelo menos %d BTC para fazer um pagamento instantâneo."
 
 #: _pages/account.php:10
 msgid "Donate to us"
-msgstr ""
+msgstr "Doar"
 
 #: _pages/account.php:11
 msgid "If you like our services, we would be pleased to recieve your donation. Below you can donate any amount to us (down to 0.00000001 BTC). This is a one time donation only."
-msgstr ""
+msgstr "Se gosta dos nossos serviços ficaríamos gratos com uma doação. Abaixo poderá doar qualquer valor (até 0.00000001 BTC). Isto é uma única doação, uma só vez."
 
 #: _pages/account.php:16
 msgid "Make donation"
-msgstr ""
+msgstr "Fazer uma doação"
 
 #: _pages/account.php:20
 msgid "Account overview"
-msgstr ""
+msgstr "Detalhes da conta"
 
 #: _pages/account.php:21
 msgid "Below you should enter the Bitcoin address to receive payouts to. You could also enter a optional nickname to be displayed in the toplist. Please note that your stats won't be displayed on the toplist unless you set a username (this is due we don't want to publicly show e-mail addresses)."
-msgstr ""
+msgstr "Abaixo deverá introduzir o seu endereço Bitcoin para receber pagamentos. Também poderá inserir um nome de utilizador opcional para ser mostrado na lista de melhos (top). Tenha em atenção que as suas estatisticas não serão mostradas na lista a não ser que introduza um nome de utilizador (isto deve-se ao facto de não querermos mostrar endereços de email publicamente)."
 
 #: _pages/account.php:22
 msgid "If you don't want to be shown on the toplist, you should leave the nickname field empty."
-msgstr ""
+msgstr "Se não quiser aparecer no Top, deverá deixar o campo nome de utilizador em branco."
 
 #: _pages/account.php:26
 msgid "Optional Nickname"
-msgstr ""
+msgstr "Nome de Utilizador Opcional"
 
 #: _pages/account.php:29
 msgid "Bitcoin Address (To receive payouts to)"
-msgstr ""
+msgstr "Endereço Bitcoin (Para receber pagamentos)"
 
 #: _pages/account.php:32
 msgid "Select Timezone"
-msgstr ""
+msgstr "Seleccionar fuso horário"
 
 #: _pages/account.php:42
 msgid "Save Account"
-msgstr ""
+msgstr "Guardar Alterações"
 
 #: _pages/account.php:46
 #: _pages/account.php:59
 msgid "Change Password"
-msgstr ""
+msgstr "Alterar Palavra-pass"
 
 #: _pages/account.php:47
 msgid "Change your password below. Please don't use the same as your e-mail and/or other services. All passwords are salted and hashed with SHA-256."
-msgstr ""
+msgstr "Altere a sua palavra-passe abaixo. Por favor não utilize a mesma palavra-passe do seu endereço de-mail ou de outros serviços. Todas as passwords estão encriptadas com SHA-256."
 
 #: _pages/account.php:51
 msgid "Current password"
-msgstr ""
+msgstr "Palavra-passe actual"
 
 #: _pages/account.php:54
 msgid "New password"
-msgstr ""
+msgstr "Palavra-passe Nova"
 
 #: _pages/account.php:57
 msgid "Repeat new password"
-msgstr ""
+msgstr "Repetir Palavra-passe Nova"
 
 #: _pages/main.php:1
 msgid "What is Bitcoins.lc?"
-msgstr ""
+msgstr "O que é o Bitcoins.lc?"
 
 #: _pages/main.php:2
 msgid "A mining pool for Bitcoin without any fees or costs. Here you can gather free Bitcoins and trade bitcoins for real cash. We have full IPv6 support and a lot more compared to other mining pools. More information will come shortly, in mean time - why don't you try our services?"
