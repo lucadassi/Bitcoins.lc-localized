@@ -2,9 +2,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Bitcoins.lc\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2011-06-09 02:21+0100\n"
-"PO-Revision-Date: 2011-06-09 22:48+0200\n"
-"Last-Translator: Timmy Sjöstedt <me@iostream.se>\n"
+"POT-Creation-Date: 2011-06-10 10:46+0100\n"
+"PO-Revision-Date: 2011-06-10 10:57+0100\n"
+"Last-Translator: Jim Nelin <jim@jine.se>\n"
 "Language-Team:  <info@bitcoins.lc>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -16,7 +16,7 @@ msgstr ""
 "X-Poedit-SourceCharset: utf-8\n"
 "X-Poedit-SearchPath-0: .\n"
 
-#: init.php:57
+#: init.php:58
 msgid "Low Cost Bitcoin Pool - Bitcoins.lc"
 msgstr "Low Cost Bitcoin Pool - Bitcoins.lc"
 
@@ -185,7 +185,7 @@ msgid "General Statistics"
 msgstr "Allmän statistik"
 
 #: _pages/stats.php:1
-#: _pages/stats.php:113
+#: _pages/stats.php:117
 msgid "Show in JSON"
 msgstr "Visa med JSON"
 
@@ -234,74 +234,74 @@ msgid "Shares for previous round"
 msgstr "Andelar för föregående omgång"
 
 #: _pages/stats.php:55
-msgid "Current block received"
-msgstr ""
-
-#: _pages/stats.php:59
-msgid "Lifetime for current block"
-msgstr "Livstid för nuvarande block"
-
-#: _pages/stats.php:63
-msgid "Current block"
-msgstr "Nuvarande block"
-
-#: _pages/stats.php:67
 msgid "Current difficulty"
 msgstr "Nuvarande svårighetsgrad"
 
-#: _pages/stats.php:71
+#: _pages/stats.php:59
 msgid "Active workers"
 msgstr "Aktiva arbetare"
 
-#: _pages/stats.php:75
-msgid "Solved blocks"
-msgstr "Lösta block"
-
-#: _pages/stats.php:75
-msgid "Show block info"
-msgstr "Visa blockinfo"
-
-#: _pages/stats.php:83
+#: _pages/stats.php:63
 msgid "Latest block solved by"
 msgstr "Senaste blocket löstes av"
 
-#: _pages/stats.php:87
+#: _pages/stats.php:67
+msgid "Solved blocks"
+msgstr "Lösta block"
+
+#: _pages/stats.php:67
+msgid "Show block info"
+msgstr "Visa blockinfo"
+
+#: _pages/stats.php:76
+msgid "Current block received"
+msgstr ""
+
+#: _pages/stats.php:80
+msgid "Lifetime for current block"
+msgstr "Livstid för nuvarande block"
+
+#: _pages/stats.php:84
+msgid "Current block"
+msgstr "Nuvarande block"
+
+#: _pages/stats.php:88
 msgid "Shares for current block"
 msgstr "Andelar för nuvarande block"
 
-#: _pages/stats.php:92
+#: _pages/stats.php:96
 msgid "Total num. of valid shares"
 msgstr "Totalt antal giltiga andelar"
 
-#: _pages/stats.php:96
+#: _pages/stats.php:100
 msgid "Total num. of shares"
 msgstr "Totalt antal andelar"
 
-#: _pages/stats.php:101
+#: _pages/stats.php:105
 msgid "Total num. of workers"
 msgstr "Totalt antal arbetare"
 
-#: _pages/stats.php:105
+#: _pages/stats.php:109
 msgid "Total num. of users"
 msgstr "Totalt antal användare"
 
-#: _pages/stats.php:111
+#: _pages/stats.php:115
 msgid "More stats will come with time, if you have any suggestions - please let us know!"
 msgstr "Mer statistik kommer i framtiden - om du har några förslag, hör av dig!"
 
-#: _pages/stats.php:113
+#: _pages/stats.php:117
 msgid "Top list (Shares)"
 msgstr "Topplista (Andelar)"
 
-#: _pages/stats.php:114
+#: _pages/stats.php:118
 msgid "Below you'll see our current top list of users and their total amount of submitted shares. Can't find yourself on the list? Make sure that you actually have filled in the optional nickname field in your Account Overview."
 msgstr ""
 
-#: _pages/stats.php:119
+#: _pages/stats.php:123
 msgid "Nickname"
 msgstr "Användarnamn"
 
-#: _pages/stats.php:120
+#: _pages/stats.php:124
 msgid "Submitted shares"
 msgstr ""
 
@@ -314,7 +314,6 @@ msgid "Below you can see the full list of transactions linked to your account. D
 msgstr ""
 
 #: _pages/transactions.php:31
-#, fuzzy
 msgid "No transactions found."
 msgstr "Inga transaktioner hittades."
 
@@ -434,7 +433,6 @@ msgstr ""
 
 #: _pages/account.php:1
 #: _pages/account.php:7
-#, fuzzy
 msgid "Instant Payout"
 msgstr "Direkt utbetalning"
 
@@ -639,7 +637,7 @@ msgstr ""
 
 #: _pages/free-bitcoins.php:11
 msgid "Supported software"
-msgstr ""
+msgstr "Mjukvarustöd"
 
 #: _pages/free-bitcoins.php:12
 msgid "We support all common and publicly available miners, including Phoenix miner, Ufasoft's CPU miner, jgarzik's CPU miner, Diablo's GPU miner, m0mchil's GPU miner and puddinpop's CPU/GPU miners and alot more. <b>Long Polling is of course enabled, and recommended to use.</b>"
@@ -655,96 +653,96 @@ msgstr "Hjälpsamma länkar"
 
 #: _pages/free-bitcoins.php:22
 msgid "Still need more info? Please read the <a href=\"http://forum.bitcoin.org/index.php?topic=9430.0\">Newbies Guide</a>"
-msgstr ""
+msgstr "Behöver du fortfarande mer information? Vänligen läs <a href=\"http://forum.bitcoin.org/index.php?topic=9430.0\">Newbies Guide</a>"
 
 #: _includes/Account.class.php:67
 msgid "Thanks for your donation, we really appreciate it!"
-msgstr ""
+msgstr "Tack för din donation, vi uppskattar det verkligen!"
 
 #: _includes/Account.class.php:71
 msgid "You don't have enough funds for that donation."
-msgstr ""
+msgstr "Ditt saldo är inte tillräckligt för den donationen. Försök igen."
 
 #: _includes/Account.class.php:98
 msgid "Instant payout"
 msgstr "Direkt utbetalning"
 
 #: _includes/Account.class.php:102
-#: _includes/Account.class.php:114
+#: _includes/Account.class.php:115
 msgid "Donation to Bitcoins.lc"
 msgstr "Donation till Bitcoins.lc"
 
-#: _includes/Account.class.php:106
+#: _includes/Account.class.php:107
 #, php-format
 msgid "Received Block %d"
 msgstr "Tog emot block %d"
 
-#: _includes/Account.class.php:168
+#: _includes/Account.class.php:169
 msgid "Account successfully updated."
 msgstr "Konto uppdaterades utan problem."
 
-#: _includes/Account.class.php:178
+#: _includes/Account.class.php:179
 msgid "You have to enter both your current password and a new one."
 msgstr "Du måste mata in både ditt nuvarande lösenord samt ett nytt."
 
-#: _includes/Account.class.php:183
-#: _includes/User.class.php:42
+#: _includes/Account.class.php:184
+#: _includes/User.class.php:47
 msgid "Passwords doesn't match."
 msgstr "Lösenorden stämmer inte överens."
 
-#: _includes/Account.class.php:188
+#: _includes/Account.class.php:189
 msgid "Your new password must be at least 8 characters long."
 msgstr "Ditt nya lösenord måste vara minst 8 tecken långst."
 
-#: _includes/Account.class.php:196
+#: _includes/Account.class.php:197
 msgid "Password successfully changed."
 msgstr "Lösenordet uppdaterades utan problem."
 
-#: _includes/Account.class.php:200
+#: _includes/Account.class.php:201
 msgid "Your current password doesn't match."
 msgstr "Ditt nuvarande lösenord stämmer inte med din inmatning."
 
-#: _includes/Account.class.php:224
+#: _includes/Account.class.php:225
 msgid "Transaction failed. You must set an payout address in your account settings."
-msgstr ""
+msgstr "Utbetalningen misslyckades. Du måste ange en Bitcoin adress i dina inställningar."
 
-#: _includes/Account.class.php:243
+#: _includes/Account.class.php:244
 #, php-format
 msgid "Instant payout of %s BTC sent to %s. <a href=\"http://blockexplorer.com/tx/%s\">View transaction</a>"
-msgstr ""
+msgstr "En utbetalning på %s BTC har skickats till %s. <a href=\"http://blockexplorer.com/tx/%s\">Visa transaktionen</a>"
 
-#: _includes/Account.class.php:247
+#: _includes/Account.class.php:248
 msgid "Transaction failed, this could possibly be an error in the system. Please contact us if this error remains."
-msgstr ""
+msgstr "Utbetalningen misslyckades, detta kan eventuellt bero på ett fel i systemet. Vänligen kontakta oss om felet kvarstår."
 
-#: _includes/Account.class.php:252
+#: _includes/Account.class.php:253
 #, php-format
 msgid "You don't meet the balance requirement for an instant payout. Your balance is less then %s BTC."
-msgstr ""
+msgstr "Du har för lågt saldo för att begära en utbetalning. Ditt saldo är mindre än %s BTC."
 
 #: _includes/User.class.php:14
-#: _includes/User.class.php:37
-#: _includes/User.class.php:76
+#: _includes/User.class.php:42
+#: _includes/User.class.php:81
 msgid "Invalid e-mail address."
 msgstr "Ogiltig e-postadress."
 
-#: _includes/User.class.php:27
+#: _includes/User.class.php:32
 msgid "Wrong credentials or you're not registered. Please register below or request a new password."
-msgstr ""
+msgstr "Uppgifterna du angav är felaktiga och/eller matchar ingen användare. Vänligen registrera dig nedan eller begär en lösenordåterställning."
 
-#: _includes/User.class.php:47
+#: _includes/User.class.php:52
 msgid "Your password must be at least 8 characters long."
 msgstr "Ditt lösenord måste vara minst 8 tecken långt."
 
-#: _includes/User.class.php:65
+#: _includes/User.class.php:70
 msgid "You're already registered, please login with your e-mail address and password or request a new password."
 msgstr ""
 
-#: _includes/User.class.php:91
+#: _includes/User.class.php:96
 msgid "Password Reset for Bitcoins.lc"
 msgstr "Lösenordsåterställning för Bitcoins.lc"
 
-#: _includes/User.class.php:95
+#: _includes/User.class.php:100
 #, php-format
 msgid ""
 "Hello!\n"
@@ -759,25 +757,36 @@ msgid ""
 "Regards, \n"
 "Bitcoins.lc"
 msgstr ""
-
-#: _includes/User.class.php:111
-#: _includes/User.class.php:165
-msgid "The password reset could not be sent out. If this error remains, please contact info@bitcoins.lc."
-msgstr ""
+"Hej!\n"
+"\n"
+"Någon har begärt en lösenordåterställning ifrån IP-nummer: %s.\n"
+"Om du inte själv gjorde denna begäran kan du ignorera detta mail.\n"
+"\n"
+"För att återställa ditt lösenord, vänligen gå till följande länk:\n"
+"https://www.bitcoins.lc/reset-password?token=%s\n"
+"\n"
+"--\t\t\t\n"
+"Med vänliga hälsningar, \n"
+"Bitcoins.lc"
 
 #: _includes/User.class.php:116
+#: _includes/User.class.php:170
+msgid "The password reset could not be sent out. If this error remains, please contact info@bitcoins.lc."
+msgstr "Lösenordsåterställningen kunde inte skickas ut. Om detta fel kvarstår, var vänlig kontakta info@bitcoins.lc"
+
+#: _includes/User.class.php:121
 msgid "An e-mail with more information has been sent to the address you provided."
-msgstr ""
+msgstr "Ett e-mail med mer information har skickats till e-postadressen du angav."
 
-#: _includes/User.class.php:124
+#: _includes/User.class.php:129
 msgid "No user with that e-mail address found. Please register a new account below or try again."
-msgstr ""
+msgstr "Ingen användare med den e-postadressen hittades. Var vänliga registrera ett nytt konto eller försök igen."
 
-#: _includes/User.class.php:145
+#: _includes/User.class.php:150
 msgid "Your new password for Bitcoins.lc"
 msgstr "Ditt nya lösenord för Bitcoins.lc"
 
-#: _includes/User.class.php:148
+#: _includes/User.class.php:153
 #, php-format
 msgid ""
 "Hello!\n"
@@ -793,14 +802,26 @@ msgid ""
 "Regards, \n"
 "Bitcoins.lc"
 msgstr ""
+"Hej!\n"
+"\n"
+"Du du begärde har ditt lösenord nu blivit återställt. Dina nya uppgifter är följande:\n"
+"\n"
+"Användarnamn: %s\n"
+"Lösenord: %s\n"
+"\n"
+"För att ändra ditt lösenord, besök denna länk när du är inloggad: https://www.bitcoins.lc/account\n"
+"\n"
+"--\t\t\t\n"
+"Med vänliga hälsningar, \n"
+"Bitcoins.lc"
 
-#: _includes/User.class.php:170
+#: _includes/User.class.php:175
 msgid "An e-mail with your new password has been sent out."
-msgstr ""
+msgstr "Ett e-mail med ditt nya lösenord har skickats till dig."
 
-#: _includes/User.class.php:176
+#: _includes/User.class.php:181
 msgid "Invalid password reset token."
-msgstr ""
+msgstr "Ogiltig länk för lösenordsåterställning"
 
 #: _includes/config.php:23
 msgid "Buy Bitcoins Cheap"
@@ -815,7 +836,6 @@ msgid "Statistics and Top lists"
 msgstr "Statistik och Topplista"
 
 #: _includes/config.php:28
-#, fuzzy
 msgid "Transactions"
 msgstr "Dina transaktioner"
 
